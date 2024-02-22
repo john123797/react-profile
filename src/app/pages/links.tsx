@@ -28,7 +28,7 @@ export const links = [
   {
     index: 3,
     title: "Find me on Medium",
-    href: "",
+    href: "https://medium.com/@john456797",
     icon: <FaMedium />,
   },
   {
