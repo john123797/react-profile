@@ -26,3 +26,4 @@ ming(I), Object-Oriented Programming, Probability, Digital Logic Design
 `2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
 - **B.B.A** in Accountancy
 - GPA: 3.88/4.0
+- test
