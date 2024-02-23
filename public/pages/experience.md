@@ -1,25 +1,44 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+### **國立陽明交通大學 計畫工程師** _(2022/01-recent)_
+- 專案參與
+  - 擔任開放通訊架構研發暨檢測實驗室(OCATL)技術主管
+    - 確保測試內容與步驟與標準無誤
+  - 中華電信學院開放式網路模擬及測試實習設備
+    - 協助 5G O-RAN 系統規劃與整合
+  - 5G O-RAN 開放架構之閉環管理系統開發及驗證-遠傳電信合作案
+    - 整合 P4 controller 於 5G O-RAN 管理系統
+- 計畫執行
+  - 基於健康照護應用之人工智慧帶動5G專網資安管理-科技部
+    - 設計與開發 O-RAN 架構網路管理系統
+      - 前端框架：Angular (Based on kubernets dashboard)
+      - 後端語言：Golang、Python (FastAPI)
+      - 基礎建設：K8s
+    - 開發 X 個 5G 應用程式
+    - 計畫技術構想與管理專案進度
+      - 管理 3 個分項進度，每個分項擁有 3 個 OKR 目標
+  - 高資安 5G 專網與 Wi-Fi 協作之智慧工廠場域管理系統開發-科技部
+    - 5G O-RAN 架構專網管理系統開發
+      - 新增設備管理功能 (Device Manager)
+      - 整合 Grafana 於管理系統中
+  - 次世代行動網路安全技術與基礎研究-科技部
+    - 負責分項三通訊技術資安部分
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
-
-&nbsp;
-
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
-
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
-
-&nbsp;
-
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+### **詮隼科技股份有限公司 工程師** _(2019/02-2021/12)_
+- 專案參與
+  - 擔任 2 次 5G Jump 實習生業師
+    - 帶領 4 位學生完成基於 Leaf-Spine 架構之 P4 交換器應用於 5G 專網
+    - 帶領 2 位學生完成基於 O-RAN 架構異常檢測技術
+  - 交通大學學術網路 SEBA 測試委託研究
+    - 安裝與測試 SEBA 框架
+  - 應用於 5G 專網之乙太網路交換機晶片及系統研發與驗證
+    - 協助研究 EVPN (RFC 7432) 標準
+  - 軟體測試線上課程規劃與設計
+    - 設計兩天共 16 小時的軟體測試課程
+- 計畫執行
+  - P4 交換器測試方法與建構 Network Slicing 技術研究—中華電信研究院
+    - 設計與開發針對 P4 交換器的測試方法 
+      - 一致性測試方法
+      - 效能測試方法
+  - 5G 垂直應用測試系統與測試方法研發暨場域驗證—經濟部
+    - 協助研究 3GPP SCAS 標準
