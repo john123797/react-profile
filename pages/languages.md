@@ -1,3 +1,3 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**: 中級
+**Chinese**: 母語
