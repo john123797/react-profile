@@ -3,9 +3,6 @@
 <!-- PROJECT SHIELDS -->
 [![gh-pages-shield]][gh-pages-url]
 [![website-shield]][website-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -205,18 +202,14 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/noworneverev/react-vscode-portfolio
-[forks-url]: https://github.com/noworneverev/react-vscode-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/noworneverev/react-vscode-portfolio
-[stars-url]: https://github.com/noworneverev/react-vscode-portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/noworneverev/react-vscode-portfolio
 [issues-url]: https://github.com/noworneverev/react-vscode-portfolio/issues
 [license-shield]: https://img.shields.io/github/license/noworneverev/react-vscode-portfolio
-[license-url]: https://github.com/noworneverev/react-vscode-portfolio/blob/master/LICENSE.md
+[license-url]: https://github.com/john123797/react-profile/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yan-ying-liao/
 [product-screenshot]: ./src/static/screenshot.gif
 [gh-pages-shield]: https://img.shields.io/github/deployments/noworneverev/noworneverev.github.io/github-pages
-[gh-pages-url]: https://github.com/noworneverev/noworneverev.github.io/deployments
+[gh-pages-url]: https://github.com/john123797/react-profile/deployments
 [website-shield]:https://img.shields.io/website?url=https%3A%2F%2Fnoworneverev.github.io%2F
 [website-url]: https://noworneverev.github.io/
